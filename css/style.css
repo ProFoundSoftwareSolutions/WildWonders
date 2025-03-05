@@ -568,13 +568,17 @@ button {
      padding: 0px 10px 0px 20px;
 }
 
-.test_box {
+.testimonial_box p {
+     font-size: 48px;
+}
+
+.text_box {
      padding: 30px 25px;
      background: #fff;
 }
 
-.testimonial_Carousel .test_box h4 {
-     font-size: 25px;
+.testimonial_Carousel .text_box h4 {
+     font-size: 28px;
      color: #555711;
      line-height: 20px;
      display: block;
@@ -584,13 +588,15 @@ button {
      padding-top: 8px;
 }
 
-.testimonial_Carousel .test_box p {
-     font-size: 17px;
+.testimonial_Carousel .text_box p {
+     font-size: 28px;
      line-height: 28px;
      color: #222122;
      text-align: center;
      padding-top: 20px;
 }
+
+
 
 .testimonial_Carousel .carousel-indicators {
      bottom: 50px;
@@ -637,7 +643,7 @@ button {
 
 .cont p {
      color: #222122;
-     font-size: 17px;
+     font-size: 28px;
      line-height: 28px;
      padding-top: 20px;
 }
